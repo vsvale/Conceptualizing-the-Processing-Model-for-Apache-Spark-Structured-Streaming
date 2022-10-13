@@ -24,4 +24,9 @@ Streams are important as conduits in the water cycle, instruments in groundwater
     Denmark WesternEurope 7.526
     Peru LatinAmericaandCaribbean 5.743
     Switzerland WesternEurope 7.509
-``
+```
+
+#### Yahoo Finance
+- pip install pyspark
+- spark-submit append_mode.py
+- move files from original_stock_data to stock_data
