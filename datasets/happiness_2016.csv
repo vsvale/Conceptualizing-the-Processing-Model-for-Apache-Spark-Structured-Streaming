@@ -1,5 +1,5 @@
 Country,Region,Happiness Rank,Happiness Score,Lower Confidence Interval,Upper Confidence Interval,Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity,Dystopia Residual
-Denmark,Western Europe,1,7.526,7.46,7.592,1.44178,1.16374,0.79504,0.57941,0.44453,0.36171,2.73939
+Denmark,WesternEurope,1,7.526,7.46,7.592,1.44178,1.16374,0.79504,0.57941,0.44453,0.36171,2.73939
 Switzerland,Western Europe,2,7.509,7.428,7.59,1.52733,1.14524,0.86303,0.58557,0.41203,0.28083,2.69463
 Iceland,Western Europe,3,7.501,7.333,7.669,1.42666,1.18326,0.86733,0.56624,0.14975,0.47678,2.83137
 Norway,Western Europe,4,7.498,7.421,7.575,1.57744,1.1269,0.79579,0.59609,0.35776,0.37895,2.66465
@@ -62,7 +62,7 @@ Lithuania,Central and Eastern Europe,60,5.813,5.734,5.892,1.2692,1.06411,0.64674
 Belarus,Central and Eastern Europe,61,5.802,5.723,5.881,1.13062,1.04993,0.63104,0.29091,0.17457,0.13942,2.38582
 North Cyprus,Western Europe,62,5.771,5.67,5.872,1.31141,0.81826,0.84142,0.43596,0.16578,0.26322,1.93447
 Slovenia,Central and Eastern Europe,63,5.768,5.683,5.853,1.29947,1.05613,0.79151,0.53164,0.03635,0.25738,1.79522
-Peru,Latin America and Caribbean,64,5.743,5.647,5.839,0.99602,0.81255,0.62994,0.37502,0.05292,0.14527,2.73117
+Peru,LatinAmericaandCaribbean,64,5.743,5.647,5.839,0.99602,0.81255,0.62994,0.37502,0.05292,0.14527,2.73117
 Turkmenistan,Central and Eastern Europe,65,5.658,5.58,5.736,1.08017,1.03817,0.44006,0.37408,0.28467,0.22567,2.21489
 Mauritius,Sub-Saharan Africa,66,5.648,5.507,5.789,1.14372,0.75695,0.66189,0.46145,0.05203,0.36951,2.20223
 Libya,Middle East and Northern Africa,67,5.615,5.406,5.824,1.06688,0.95076,0.52304,0.40672,0.10339,0.17087,2.39374
