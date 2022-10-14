@@ -1,0 +1,5 @@
+v1
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/MSFT_2020_partial.csv","timestamp":1665669900000,"batchId":2}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/GOOGL_2020_partial.csv","timestamp":1665669900000,"batchId":2}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/FB_2020_partial.csv","timestamp":1665669900000,"batchId":2}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/AAPL_2020_partial.csv","timestamp":1665669900000,"batchId":2}

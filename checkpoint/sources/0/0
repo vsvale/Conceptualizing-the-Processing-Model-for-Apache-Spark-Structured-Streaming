@@ -1,0 +1,6 @@
+v1
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/AMZN_2020_partial.csv","timestamp":1665669900000,"batchId":0}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/AAPL_2018.csv","timestamp":1665669900000,"batchId":0}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/AAPL_2019.csv","timestamp":1665669900000,"batchId":0}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/AMZN_2018.csv","timestamp":1665669900000,"batchId":0}
+{"path":"file:///workspace/Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming/datasets/stock_data/AMZN_2019.csv","timestamp":1665669900000,"batchId":0}

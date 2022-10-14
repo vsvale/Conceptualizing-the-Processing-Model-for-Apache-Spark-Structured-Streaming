@@ -13,7 +13,7 @@ def main():
 
 	sparkSession.sparkContext.setLogLevel('ERROR')
 
-
+	# read batch to infer schema
 	stockPricesDf = sparkSession.read \
 		.format('csv') \
 		.option('header', 'true') \

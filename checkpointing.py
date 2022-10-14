@@ -41,7 +41,7 @@ def main():
                                      FROM stock_prices
                                      GROUP BY Name""")  
 
-
+    #Recover previous progress and state of a previous and continue where you left off
     query = avgCloseDf \
             .writeStream.outputMode('complete') \
             .format('console') \

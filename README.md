@@ -32,3 +32,13 @@ Streams are important as conduits in the water cycle, instruments in groundwater
 - spark-submit append_mode.py
 - spark-submit append_mode_view.py
 - spark-submit complete_mode.py
+- spark-submit complete_mode_agg.py
+- spark-submit update_mode.py
+- spark-submit update_mode_sql.py
+- spark-submit schema_inference.py
+- spark-submit checkpointing.py
+- spark-submit continuous_processing.py
+- spark-submit broadcast.py
+- spark-submit accumulator.py
+- spark-submit udfs.py
+- spark-submit udfs_sql.py
