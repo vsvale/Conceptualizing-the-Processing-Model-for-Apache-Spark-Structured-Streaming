@@ -27,6 +27,8 @@ Streams are important as conduits in the water cycle, instruments in groundwater
 ```
 
 #### Yahoo Finance
+- move files from original_stock_data to stock_data
 - pip install pyspark
 - spark-submit append_mode.py
-- move files from original_stock_data to stock_data
+- spark-submit append_mode_view.py
+- spark-submit complete_mode.py
