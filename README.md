@@ -1,4 +1,4 @@
-# Conceptualizing-the-Processing-Model-for-Apache-Spark-Structured-Streaming
+# [Conceptualizing the Processing Model for Apache Spark Structured Streaming](https://app.pluralsight.com/library/courses/conceptualizing-processing-model-apache-spark-structured-streaming/table-of-contents)
 Much real-world data is available in streams; from self-driving car sensors to weather monitors. Apache Spark 2 is a strong analytics engine with first-class support for streaming operations using micro-batch and continuous processing. 
 
 ### Description
